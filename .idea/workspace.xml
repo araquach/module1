@@ -15,9 +15,6 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
-  <component name="GoLibraries">
-    <option name="indexEntireGoPath" value="false" />
-  </component>
   <component name="ProjectId" id="1kKhIDU8GjhJoG7l7M4LZLfHW7X" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
